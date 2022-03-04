@@ -4,21 +4,6 @@
     font-family: "Montserrat", sans-serif;
 }
 
-.contact-bg{
-    background: url(./Background/contact-bg.jpg) no-repeat;
-    background-size: cover;
-    height: auto;
-    width: auto;
-
-    
-}
-
-.contact-section{
-    background-color: rgba(90, 90, 90, 0.75);
-    filter: brightness(60%);
-    padding: 150px 0 150px 0px;
-}
-
 .contact-section h1{
     filter: brightness(120%);
     text-align: center;
